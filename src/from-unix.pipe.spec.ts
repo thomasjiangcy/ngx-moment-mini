@@ -1,4 +1,4 @@
-import * as moment from 'moment';
+import * as moment from 'moment-mini';
 import {FromUnixPipe} from './from-unix.pipe';
 
 describe('FromUnixPipe', () => {

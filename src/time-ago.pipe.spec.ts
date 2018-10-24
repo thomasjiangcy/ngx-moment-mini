@@ -1,6 +1,6 @@
 import { NgZone } from '@angular/core';
 import { TimeAgoPipe } from './time-ago.pipe';
-import * as moment from 'moment';
+import * as moment from 'moment-mini';
 import 'moment/min/locales';
 
 declare var global: any;

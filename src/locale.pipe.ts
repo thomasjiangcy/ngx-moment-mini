@@ -1,5 +1,5 @@
 import { Pipe, PipeTransform } from '@angular/core';
-import * as moment from 'moment';
+import * as moment from 'moment-mini';
 
 // under systemjs, moment is actually exported as the default export, so we account for that
 const momentConstructor = moment;
