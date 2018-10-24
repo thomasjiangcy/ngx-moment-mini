@@ -1,6 +1,6 @@
 {
   "name": "ngx-moment-mini",
-  "version": "3.1.0",
+  "version": "3.1.1",
   "description": "Moment.JS pipes for Angular (timeago and more) with moment-mini",
   "scripts": {
     "build": "ng build",
