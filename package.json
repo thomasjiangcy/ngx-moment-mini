@@ -1,7 +1,7 @@
 {
   "name": "ngx-moment-mini",
-  "version": "3.1.1",
-  "description": "Moment.JS pipes for Angular (timeago and more) with moment-mini",
+  "version": "3.2.0",
+  "description": "Moment.JS pipes for Angular (timeago and more)",
   "scripts": {
     "build": "ng build",
     "test": "ng lint && jest",
@@ -26,32 +26,32 @@
   },
   "homepage": "https://github.com/thomasjiangcy/ngx-moment-mini#readme",
   "peerDependencies": {
-    "@angular/common": ">=2.0.0 <=7.0.0",
-    "@angular/core": ">=2.0.0 <=7.0.0",
+    "@angular/common": ">=2.0.0",
+    "@angular/core": ">=2.0.0",
     "moment-mini": "^2.22.1"
   },
   "devDependencies": {
-    "@angular-devkit/build-angular": "^0.10.2",
-    "@angular-devkit/build-ng-packagr": "^0.10.2",
-    "@angular/cli": "^7.0.2",
-    "@angular/common": "^7.0.0",
-    "@angular/compiler": "^7.0.0",
-    "@angular/compiler-cli": "^7.0.0",
-    "@angular/core": "^7.0.0",
-    "@angular/language-service": "^7.0.0",
-    "@angular/platform-browser": "^7.0.0",
-    "@types/jest": "^22.2.3",
+    "@angular-devkit/build-angular": "^0.10.3",
+    "@angular-devkit/build-ng-packagr": "^0.10.3",
+    "@angular/cli": "^7.0.3",
+    "@angular/common": "^7.0.1",
+    "@angular/compiler": "^7.0.1",
+    "@angular/compiler-cli": "^7.0.1",
+    "@angular/core": "^7.0.1",
+    "@angular/language-service": "^7.0.1",
+    "@angular/platform-browser": "^7.0.1",
+    "@types/jest": "^23.3.9",
     "core-js": "^2.5.4",
-    "jest": "^22.4.3",
+    "jest": "^22.6.0",
     "moment-mini": "^2.22.1",
     "ng-packagr": "^4.4.0",
-    "rxjs": "^6.0.0-rc.0",
+    "rxjs": "^6.6.3",
     "ts-jest": "^23.10.4",
     "tsickle": "^0.33.0",
     "tslib": "^1.7.1",
     "tslint": "~5.9.1",
     "typescript": "^3.1.3",
-    "zone.js": "^0.8.24"
+    "zone.js": "^2.19.3"
   },
   "jest": {
     "roots": [
